@@ -5,16 +5,21 @@
 **Difficulty:** *Easy*
 **Goal:** *Hacking my first website!*
 
+---
 
 ## TL;DR / Summary
 
 This initial room in the Cyber Security 101 path introduced the fundamentals of offensive security and demonstrated the structure of TryHackMe exercises. As a practical challenge, I performed my first web exploitation on a simulated banking site.
 
+---
+
 ## Environment
 
 * Target URL: `http://fakebank.thm`
-* Tools I used: `dirb`
+* Tools used: `dirb`
 * Duration: `10 min`
+
+---
 
 ## Exploitation
 
@@ -61,11 +66,15 @@ At this point the lab objective is complete: we successfully discovered a hidden
 
 > **Note** : All interactions in this exercise were performed using the lab's web interface (browser). No additional tooling such as curl, Burp Suite, or custom scripts was used to complete the task.
 
+---
+
 ## Conclusion
 
 This room provided a concise, beginner-friendly introduction to offensive security. The lab guided me through the full process of exploiting a simulated web application, starting from reconnaissance to successfully manipulating a hidden administrative endpoint. The structured environment made it easy to understand the typical workflow in offensive security labs: launching a target VM, enumerating accessible resources, identifying hidden functionality, and performing controlled exploitation in a safe, legal environment.
 
 While completing the main objective, I explored the VM filesystem in search of any additional hints or easter eggs. TryHackMe suggested examining the `common.txt` wordlist directly on the machine (`/usr/share/dirb/wordlists/common.txt`). I reviewed the file, but found no further surprises beyond the intended lab content. This reinforced the lesson that, in real-world assessments, systematic enumeration and verification of accessible resources are key steps, while many “hidden” items may simply be noise or instructional scaffolding.
+
+---
 
 #### Key Takeaways
 - [x] Directory enumeration is a high-value technique for web assessments; even a brief scan can reveal hidden administrative endpoints.
