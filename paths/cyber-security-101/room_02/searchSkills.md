@@ -24,8 +24,6 @@ We'll go through:
 - making use of social media,
 - checking new outlets.
 
----
-
 ## 2) Evaluation of search results
 
 As internet users, we know that anyone can write anything he wants on internet and this is our job to evaluate the information we're reading.
@@ -35,8 +33,6 @@ Here are few things to check when evaluating informations:
 - **Objectivity and bias**: Is the information impartial and rationnal?
 - **Corroboration and consistency**: You can only be sure of an information if the information is related by many sources. They need to be multiple, reliable and reputable. And of course, they need to agree on the central claim.
 
----
-
 ## 3) Search engines
 
 Usually on search engines, rather that just typing the words/sentence we are searching, we can specify many thing.
@@ -44,8 +40,6 @@ We can use `"..."` to specify exact word or phrase. For example, use `"baguette 
 We can specify a domain name to specify the research using `site:`.
 We can omit words of the research using the `-` symbol before the word we want to get.
 We can do many many things to upgrade accuracy and they gives us a full list on that [github repository](https://github.com/cipher387/Advanced-search-operators-list).
-
----
 
 ## 4) Specialized search engines
 
@@ -56,8 +50,6 @@ To validate the stage we have to search which is the top country using `lighttpd
 - We also can use **VirusTotal** (visit [here](https://www.virustotal.com/gui/home/upload)) to scan any file, URL or hash to check wether they are infected or not by a malicious program. **VirusTotal** doesn't analyse the file itself but send it to many antivirus programs instead. Then the platform regroup all the results in a same place.
 - Lastly they gave us **Have I Been Pwned** (visit [here](https://haveibeenpwned.com)), that website analyses if your email adress currently appears in leaked data breaches.
 
----
-
 ## 5) Vulnerabilities and exploits
 
 ##### CVE
@@ -66,8 +58,6 @@ There is a big program named Common Vulnerabilities and Exposures (CVE) used as 
 ##### Exploit Database
 There is plenty of reasons why you would exploit a vulnerable application, nevertheless remind it's absolutely forbidden to exploit any system unless getting the explicit authorization.
 Many tools available on github are related to CVE.
-
----
 
 ## 6) Technical Documentation
 
@@ -78,6 +68,8 @@ And this is also expected for every popular product to get an official and well-
 ## 7) Social Media
 
 Social media platforms like *Facebook*, *Twitter*, and *LinkedIn* are valuable sources of information and connection for cybersecurity professionals. They can be used to research people, gather intelligence, and stay updated on security trends and technologies. However, oversharing personal details online can expose users to **social engineering** or **account takeover** risks. When exploring new platforms, it’s best to use *temporary* email accounts to avoid linking activities to personal profiles. Following trusted cybersecurity groups and news outlets helps professionals stay informed and continuously improve their expertise.
+
+---
 
 ## Conclusion
 
