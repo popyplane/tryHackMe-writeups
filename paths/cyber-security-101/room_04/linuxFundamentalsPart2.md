@@ -1,0 +1,1 @@
+# This is a premium room, you need to be subscribed to TryHackMe to be allowed to do it!
